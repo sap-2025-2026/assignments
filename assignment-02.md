@@ -8,16 +8,17 @@ v1.0.0-20251114
 
 - Consider the *Shipping on the Air* case study presented in assignment #01. In assignment #02, we want to refine the design, implementation and deployment by applying a subset of the microservices patterns discussed in the course. In particular:
   - API Gateway
-  - Service Discovery  
   - Observability Patterns
     - Health chek API
     - Application Metrics
   - Event Sourcing - applied to one service   
-  - One more pattern, of your choice
+  - Two more patterns, of your choice
 
-Besides patterns, the solution must adopt:
- - A deployment strategy, based on software containers.   
- - A testing strategy, showing one example for each level of the test pyramid.   
+- Besides patterns, the solution must adopt:
+  - A deployment strategy, based on software containers.   
+  - A testing strategy, showing one example for each level of the test pyramid.  
+ 
+- Discuss how to use observability patterns to implement Quality Attribute Scenarios in your project, providing two concrete examples.
 
 #### Deliverable
   
