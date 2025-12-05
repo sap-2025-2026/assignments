@@ -12,16 +12,15 @@ The last assignment consists of three points
   - The other microservices may keep the original architecture, just adapting what it is needed to interact with the redesigned microservice.
   - Use Apache Kafka as middleware.
 
-
-2) *About Agent-based Architectures* **(preview)**
-
-- Consider the specification and design of the autonomous software system controlling a drone in the *Shipping on the Air* case study, applying an agent-oriented approach. 
-
-
-3) *About Scaling and Service Level*  **(preview)**
+2) *About Scaling and Service Level*  **(preview)**
 
 - Applying scaling strategies to the *Shipping on the Air* case study, in order to achieve specific Service Levels
   - Technologies involved: Kubernetes 
+
+3) *About Agent-based Architectures* **(preview)**
+
+- Consider the specification and design of the autonomous software system controlling a drone in the *Shipping on the Air* case study, applying an agent-oriented approach. 
+
 
 #### Deliverable
   
