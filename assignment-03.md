@@ -12,7 +12,7 @@ The last assignment consists of three points
   - The other microservices may keep the original architecture, just adapting what it is needed to interact with the redesigned microservice.
   - Use Apache Kafka as middleware.
 
-2) *About Scaling and Service Level*  **(preview)**
+2) *About Scaling and Service Levels*  **(preview)**
 
 - Applying scaling strategies to the *Shipping on the Air* case study, in order to achieve specific Service Levels
   - Technologies involved: Kubernetes 
